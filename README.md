@@ -18,4 +18,6 @@
 <BR>
 <H1>WEEK 9: https://github.com/ganeshkumba/GEN-AI-LAB/blob/main/GENAI_LAB_09.ipynb  </H1>
 <BR>
-<H1>WEEK 10:  
+<H1>WEEK 10: https://github.com/ganeshkumba/GEN-AI-LAB/blob/main/GENAI_LAB_10.ipynb  </H1>
+<BR>
+<H1>WEEK 11: 
